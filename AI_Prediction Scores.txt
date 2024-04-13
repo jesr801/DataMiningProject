@@ -1,0 +1,5 @@
+Linear Regression Score:
+ -1.9896978385780528e-05 
+
+MLP Score:
+ 0.09538444282429477
